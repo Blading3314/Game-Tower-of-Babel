@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WinZone
+comment1.params=
+comment1.target=WinZone()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=enabled
+comment3.target=void\ setEnabled(boolean)
+comment4.params=
+comment4.target=boolean\ isEnabled()
+comment5.params=text
+comment5.target=void\ showMessage(java.lang.String)
+numComments=6

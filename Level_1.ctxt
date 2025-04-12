@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Level_1
+comment0.text=\n\ Level_1\ -\ A\ falling\ cavern\ level\ with\ screen\ shake\ effect\ and\ obstacles.\n
+comment1.params=
+comment1.target=Level_1()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ started()
+comment4.params=
+comment4.target=void\ stopped()
+comment5.params=
+comment5.target=void\ applyShakeEffect()
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n
+numComments=7

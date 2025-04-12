@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Stalactite
+comment1.params=
+comment1.target=Stalactite()
+comment2.params=large
+comment2.target=void\ createStalactiteImage(boolean)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ fall()
+comment5.params=
+comment5.target=void\ addGlowParticle()
+comment6.params=
+comment6.target=void\ createImpactEffect()
+numComments=7

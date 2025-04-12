@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BarrelPiece
+comment1.params=
+comment1.target=BarrelPiece()
+comment2.params=x\ y
+comment2.target=void\ setVelocity(int,\ int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ContinueButton
+comment1.params=
+comment1.target=ContinueButton()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=level
+comment3.target=void\ setLevel(int)
+numComments=4
